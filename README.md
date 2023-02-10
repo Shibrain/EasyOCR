@@ -36,7 +36,7 @@ Integrated into [Huggingface Spaces 🤗](https://huggingface.co/spaces) using [
     - Example [dataset](https://www.jaided.ai/easyocr/modelhub) for model training
     - Batched image inference for GPUs (thanks [@SamSamhuns](https://github.com/SamSamhuns), see [PR](https://github.com/JaidedAI/EasyOCR/pull/458))
     - Vertical text support (thanks [@interactivetech](https://github.com/interactivetech)). This is for rotated text, not to be confused with vertical Chinese or Japanese text. (see [PR](https://github.com/JaidedAI/EasyOCR/pull/450))
-    - Output in dictionary format (thanks [@A2va](https://github.com/A2va), see [PR](https://github.com/JaidedAI/EasyOCR/pull/441))
+    - Output in dictionary format (thanks [@A2va](https://github.com/A2va), see [PR](https://github.com/Shubrain/EasyOCR/pull/441))
 - 30 May 2021 - Version 1.3.2
     - Faster greedy decoder (thanks [@samayala22](https://github.com/samayala22))
     - Fix bug when a text box's aspect ratio is disproportional (thanks [iQuartic](https://iquartic.com/) for bug report)
